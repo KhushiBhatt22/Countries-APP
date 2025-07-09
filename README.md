@@ -17,3 +17,5 @@ React.js: For building the user interface and handling state.
 JavaScript (ES6+): For implementing core functionality and logic.
 
 CSS: For styling the app and ensuring it is responsive.
+
+![Country](https://github.com/user-attachments/assets/458b800f-d5b9-490c-bad2-db1cfa57d1c1)
